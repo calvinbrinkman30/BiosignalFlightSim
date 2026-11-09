@@ -1024,6 +1024,46 @@
                     "interactions": "",
                     "initialStateCheck": true,
                     "priority": 0
+                },
+                {
+                    "name": "A",
+                    "type": "Button",
+                    "id": "ac855140-a135-45ed-9c4f-72e1e8e38354",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                },
+                {
+                    "name": "D",
+                    "type": "Button",
+                    "id": "2cd83aa8-c1b1-4b7e-b87f-f330a71976c4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                },
+                {
+                    "name": "W",
+                    "type": "Button",
+                    "id": "57bf9eea-ae65-4873-a395-cd7d0fda4398",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                },
+                {
+                    "name": "S",
+                    "type": "Button",
+                    "id": "7ec81f17-5c4d-4e48-bed2-651bf64ef520",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
                 }
             ],
             "bindings": [
@@ -1035,6 +1075,50 @@
                     "processors": "",
                     "groups": "",
                     "action": "Pitch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "25e85297-c517-4b4d-8da6-3e530ad8dd82",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2b2cdf83-d886-415d-92df-280833a43cae",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "D",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "305546ee-5eaa-48db-8019-23cfabf8e113",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "W",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f97d763-7a54-42ad-aade-bd8052196ab3",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "S",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
