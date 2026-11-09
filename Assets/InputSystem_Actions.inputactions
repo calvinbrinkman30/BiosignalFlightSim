@@ -1010,6 +1010,35 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "User",
+            "id": "b45db1ec-6052-4adc-ba28-48571c4fc827",
+            "actions": [
+                {
+                    "name": "Pitch",
+                    "type": "Value",
+                    "id": "bbb2057a-fc41-486b-87e9-3c66145a35ba",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f96c0d46-e1ff-450c-8072-7b80e97011d1",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pitch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
